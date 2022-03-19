@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raysandra
+- 👀 I’m interested in entrepreneurship, marketing and data science.
+- 🌱 I’m currently learning pyhton.
